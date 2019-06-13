@@ -1,6 +1,6 @@
 # CRA + Airtable starter
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0ed0a8f4-c0ac-46a8-abcb-ace723037ac8/deploy-status)](https://app.netlify.com/sites/cra-airtable-starter/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/21f94479-dde5-489d-a550-25d3db9154aa/deploy-status)](https://app.netlify.com/sites/cra-starter-airtable/deploys)
 
 ## Prerequisites
 
